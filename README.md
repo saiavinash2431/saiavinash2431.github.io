@@ -24,7 +24,7 @@
     - 4.0/4.0
 </p>
 <h1>
-    TECHNICAL Skills
+    Technical Skills
 </h1>
 <p>
     <strong>Programming Languages: </strong>
